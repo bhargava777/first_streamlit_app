@@ -4,4 +4,4 @@ streamlit.title('my parents new healthy dinner')
 
 streamlit.header('BREAKFAST MENU')
 
-streamlit.TEXT('APPLE')
+streamlit.text('APPLE')
